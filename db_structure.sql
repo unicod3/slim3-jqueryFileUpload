@@ -24,9 +24,7 @@ DROP TABLE IF EXISTS `img_productImages`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `img_productImages` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
-  `sku` text COLLATE utf8_unicode_ci NOT NULL,
   `imageName` text COLLATE utf8_unicode_ci,
-  `swatch` int(1) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
