@@ -1,7 +1,7 @@
 # Slim Framework 3 - Implementation of blueimp/jQuery-File-Upload
 
 
-This is a simple upload controller for use with BlueImp/JQuery-File-Upload. This repo contains multiple file uplaod example.
+This is a simple upload controller for use with [BlueImp/JQuery-File-Upload](https://blueimp.github.io/jQuery-File-Upload/). This repo contains multiple file uplaod example.
 
 Project also has a model to save images and their names into database with the Eloquent ORM.
 
