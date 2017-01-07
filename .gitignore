@@ -1,0 +1,9 @@
+/vendor/
+/logs/*
+!/logs/README.md
+
+Icon?
+**/Icon?
+*.DS_Store
+.DS_Store
+public/files
